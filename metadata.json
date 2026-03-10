@@ -1,0 +1,5 @@
+{
+  "name": "MedTriage AI",
+  "description": "An AI-powered emergency triage assistant for rapid patient assessment and queue management.",
+  "requestFramePermissions": []
+}
